@@ -1,0 +1,11 @@
+# Keep public website files publishable while protecting internal planning files.
+Business_Profile_Brent_Banta.md
+build_*.py
+*_Business_Proposal.*
+*_Loan_Funding_Request.*
+proposal_render/
+loan_request_render/
+
+# Local/editor noise.
+.DS_Store
+Thumbs.db
